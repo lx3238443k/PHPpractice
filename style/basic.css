@@ -1,0 +1,86 @@
+@CHARSET "UTF-8";
+*{
+	padding:0;
+    margin:0;
+
+
+}
+
+body
+{
+    	width:960px;
+	margin:0 auto;
+
+	background:#fff;
+font-size:14px;
+	
+	
+}
+
+ul{
+	list-style-type:none;
+}
+
+h2{
+	font-size:14px;
+	background:#eee;
+	height:25px;
+	line-height:25px;
+	text-indent:10px;
+}
+
+
+#header{
+	
+	width:auto;
+	height:150px;
+	border:2px solid #ccc;
+	margin:10px 0;
+	
+}
+
+#header h1{
+	font-size:12px;
+	width:521px;
+	height:129px;
+	background:url(../images/paobu.jpg)no-repeat;
+	
+}
+
+#header h1 a{
+	width:521px;
+	height:129px;
+	display:block;
+	text-indent:-9999px;
+	
+}
+#header ul{
+	
+	text-align:right;
+	padding:0 50px 0 0;
+	
+}
+#header ul li{
+	display:inline;
+}
+
+#header ul li a{
+	
+	text-decoration:none;
+	color:#333;
+	
+	
+}
+
+#header ul li a:hover{
+
+	color:#f00;
+}
+
+
+#footer{
+	width:auto;
+	height:60px;
+    text-align:center;
+		
+}

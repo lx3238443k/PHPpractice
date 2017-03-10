@@ -1,0 +1,84 @@
+@CHARSET "UTF-8";
+
+#blog{
+	width:auto;
+	height:1050px;
+    border:2px solid #ccc;	
+	font-size:12px;
+}
+#blog h2{
+	text-indent:0;
+	text-align:center;
+	margin:0 0 10px 0;
+}
+
+
+#blog dl{
+
+	width:260px;
+	margin:10px 0 0 45px;
+	float:left;
+}
+
+#blog dl dt{
+	
+	width:260px;
+	
+	
+}
+
+#blog dl dt img{
+	margin:0 auto;
+	display:block;
+	
+}
+
+
+
+#blog dl dd{
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	width:130px;
+	float:left;
+	
+	
+}
+#blog dl dd.user{
+	width:260px;
+	float:none;
+	color:#f60;
+}
+
+#blog dl dd.message{
+	background:url(../images/xiaoxi.png) no-repeat 18px center ;
+	
+	
+	
+}
+#blog dl dd.friend{
+	background:url(../images/haoyou.png) no-repeat 17px center ;
+	
+	
+	
+}
+
+#blog dl dd.guest{
+	background:url(../images/liuyan.png) no-repeat 18px center ;
+	
+	
+	
+}
+
+#blog dl dd.flower{
+	background:url(../images/hua.png) no-repeat 18px center ;
+	
+	
+	
+}
+
+
+
+
+
+
